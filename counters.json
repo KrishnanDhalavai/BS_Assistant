@@ -1,0 +1,514 @@
+
+{
+  "Shelly": [
+    {"counter": "Surge", "weight": 10},
+    {"counter": "Nita", "weight": 6},
+    {"counter": "Amber", "weight": 6},
+    {"counter": "Dynamite", "weight": 8},
+    {"counter": "Larry", "weight": 8}
+  ],
+  "Nita": [
+    {"counter": "Cordelius", "weight": 10}
+  ],
+  "Colt": [
+    {"counter": "Stu", "weight": 6},
+    {"counter": "Edgar", "weight": 6},
+    {"counter": "Mortis", "weight": 6},
+    {"counter": "Piper", "weight": 8}
+  ],
+  "Bull": [
+    {"counter": "Otis", "weight": 10},
+    {"counter": "Cordelius", "weight": 10},
+    {"counter": "Mina", "weight": 6}
+  ],
+  "Brock": [
+    {"counter": "Max", "weight": 6},
+    {"counter": "Kaze", "weight": 6},
+    {"counter": "Nani", "weight": 6}
+  ],
+  "Primo": [
+    {"counter": "Stu", "weight": 8},
+    {"counter": "Cordelius", "weight": 8}
+  ],
+  "Barley": [
+    {"counter": "Edgar", "weight": 8},
+    {"counter": "Mortis", "weight": 8},
+    {"counter": "Kenji", "weight": 8}
+  ],
+  "Poco": [
+    {"counter": "Sam", "weight": 8},
+    {"counter": "Kit", "weight": 6},
+    {"counter": "Byron", "weight": 6}
+  ],
+  "Rosa": [
+    {"counter": "Bull", "weight": 6},
+    {"counter": "Frank", "weight": 6},
+    {"counter": "Shelly", "weight": 8}
+  ],
+  "Jessie": [
+    {"counter": "Barley", "weight": 8},
+    {"counter": "Dynamite", "weight": 8},
+    {"counter": "Pierce", "weight": 6},
+    {"counter": "Belle", "weight": 6}
+  ],
+  "Dynamite": [
+    {"counter": "Bibi", "weight": 8}
+  ],
+  "Tick": [
+    {"counter": "Kenji", "weight": 10}
+  ],
+  "8bit": [
+    {"counter": "Penny", "weight": 6},
+    {"counter": "Squeak", "weight": 6},
+    {"counter": "Colette", "weight": 8},
+    {"counter": "Belle", "weight": 6}
+  ],
+  "Rico": [
+    {"counter": "Colt", "weight": 6},
+    {"counter": "Griff", "weight": 6},
+    {"counter": "Brock", "weight": 6}
+  ],
+  "Daryl": [
+    {"counter": "Cordelius", "weight": 8},
+    {"counter": "Mina", "weight": 4}
+  ],
+  "Penny": [
+    {"counter": "Kenji", "weight": 8},
+    {"counter": "Shade", "weight": 8}
+  ],
+  "Carl": [
+    {"counter": "Buzz", "weight": 10},
+    {"counter": "Bull", "weight": 4},
+    {"counter": "Damian", "weight": 4},
+    {"counter": "Piper", "weight": 4}
+  ],
+  "Jackie": [
+    {"counter": "Frank", "weight": 10}
+  ],
+  "Gus": [
+    {"counter": "Edgar", "weight": 6},
+    {"counter": "Damian", "weight": 10},
+    {"counter": "Byron", "weight": 6},
+    {"counter": "Mandy", "weight": 6},
+    {"counter": "Eve", "weight": 4}
+  ],
+  "Bea": [
+    {"counter": "Edgar", "weight": 10},
+    {"counter": "Gus", "weight": 8},
+    {"counter": "Leon", "weight": 6},
+    {"counter": "Charlie", "weight": 6},
+    {"counter": "Ruffs", "weight": 6},
+    {"counter": "Mr. P", "weight": 6}
+  ],
+  "Emz": [
+    {"counter": "Meeple", "weight": 8},
+    {"counter": "Edgar", "weight": 6},
+    {"counter": "Daryl", "weight": 6},
+    {"counter": "Mortis", "weight": 6}
+  ],
+  "Stu": [
+    {"counter": "Ruffs", "weight": 6},
+    {"counter": "Tara", "weight": 6},
+    {"counter": "Charlie", "weight": 6}
+  ],
+  "Piper": [
+    {"counter": "Nani", "weight": 8},
+    {"counter": "Kaze", "weight": 6},
+    {"counter": "Mandy", "weight": 6},
+    {"counter": "Brock", "weight": 6}
+  ],
+  "Pam": [
+    {"counter": "Colette", "weight": 8},
+    {"counter": "Lumi", "weight": 6},
+    {"counter": "Crow", "weight": 6},
+    {"counter": "Lou", "weight": 6}
+  ],
+  "Frank": [
+    {"counter": "Colette", "weight": 10},
+    {"counter": "Chester", "weight": 6},
+    {"counter": "Clancy", "weight": 6}
+  ],
+  "Bibi": [
+    {"counter": "Cordelius", "weight": 6},
+    {"counter": "Bull", "weight": 4}
+  ],
+  "Nani": [
+    {"counter": "Max", "weight": 6},
+    {"counter": "Gene", "weight": 6},
+    {"counter": "Najia", "weight": 6}
+  ],
+  "Edgar": [
+    {"counter": "Otis", "weight": 8},
+    {"counter": "Griff", "weight": 8},
+    {"counter": "Bull", "weight": 8},
+    {"counter": "Gale", "weight": 8}
+  ],
+  "Griff": [
+    {"counter": "Moe", "weight": 6},
+    {"counter": "Bea", "weight": 4},
+    {"counter": "Ruffs", "weight": 4}
+  ],
+  "Grom": [
+    {"counter": "Kenji", "weight": 10},
+    {"counter": "Bolt", "weight": 4},
+    {"counter": "Moe", "weight": 4}
+  ],
+  "Bonnie": [
+    {"counter": "Charlie", "weight": 6},
+    {"counter": "Ruffs", "weight": 6},
+    {"counter": "Tara", "weight": 6},
+    {"counter": "Gus", "weight": 8}
+  ],
+  "Gale": [
+    {"counter": "Ziggy", "weight": 4},
+    {"counter": "Lola", "weight": 8},
+    {"counter": "Amber", "weight": 8}
+  ],
+  "Colette": [
+    {"counter": "Crow", "weight": 6},
+    {"counter": "Ruffs", "weight": 4},
+    {"counter": "Charlie", "weight": 4},
+    {"counter": "Bea", "weight": 6}
+  ],
+  "Belle": [
+    {"counter": "Piper", "weight": 4},
+    {"counter": "Kaze", "weight": 4},
+    {"counter": "Kit", "weight": 4}
+  ],
+  "Ash": [
+    {"counter": "Frank", "weight": 8},
+    {"counter": "Damian", "weight": 4},
+    {"counter": "Trunk", "weight": 8}
+  ],
+  "Lola": [
+    {"counter": "Lumi", "weight": 8},
+    {"counter": "Belle", "weight": 6}
+  ],
+  "Sam": [
+    {"counter": "Bull", "weight": 10},
+    {"counter": "Gale", "weight": 10}
+  ],
+  "Mandy": [
+    {"counter": "Nani", "weight": 8},
+    {"counter": "Edgar", "weight": 8},
+    {"counter": "Sprout", "weight": 6}
+  ],
+  "Maisie": [
+    {"counter": "Ruffs", "weight": 10},
+    {"counter": "Charlie", "weight": 10},
+    {"counter": "Stu", "weight": 6}
+  ],
+  "Hank": [
+    {"counter": "Dynamite", "weight": 10},
+    {"counter": "Moe", "weight": 8}
+  ],
+  "Pearl": [
+    {"counter": "Pam", "weight": 4},
+    {"counter": "Lola", "weight": 4},
+    {"counter": "Finx", "weight": 4}
+  ],
+  "Larry": [
+    {"counter": "Edgar", "weight": 6}
+  ],
+  "Angelo": [
+    {"counter": "Ruffs", "weight": 6},
+    {"counter": "Charlie", "weight": 6},
+    {"counter": "Jae-Yong", "weight": 6},
+    {"counter": "Nani", "weight": 6}
+  ],
+  "Berry": [
+    {"counter": "Lily", "weight": 6},
+    {"counter": "Edgar", "weight": 6},
+    {"counter": "Damian", "weight": 4}
+  ],
+  "Shade": [
+    {"counter": "Lou", "weight": 6},
+    {"counter": "Hank", "weight": 6},
+    {"counter": "Jackie", "weight": 4}
+  ],
+  "Meeple": [
+    {"counter": "Charlie", "weight": 8},
+    {"counter": "Ruffs", "weight": 8},
+    {"counter": "Sirius", "weight": 8}
+  ],
+  "Trunk": [
+    {"counter": "Frank", "weight": 6},
+    {"counter": "Bull", "weight": 6},
+    {"counter": "Mina", "weight": 6}
+  ],
+  "Bolt": [
+    {"counter": "Chester", "weight": 8},
+    {"counter": "Doug", "weight": 4},
+    {"counter": "Lou", "weight": 10},
+    {"counter": "Gus", "weight": 9},
+    {"counter": "Bibi", "weight": 8}
+  ],
+  "Mortis": [
+    {"counter": "Otis", "weight": 6},
+    {"counter": "Bull", "weight": 6},
+    {"counter": "Shelly", "weight": 6},
+    {"counter": "Surge", "weight": 6}
+  ],
+  "Tara": [
+    {"counter": "Janet", "weight": 10},
+    {"counter": "Juju", "weight": 4},
+    {"counter": "Sandy", "weight": 4}
+  ],
+  "Gene": [
+    {"counter": "Mr. P", "weight": 8},
+    {"counter": "Eve", "weight": 8},
+    {"counter": "Belle", "weight": 6}
+  ],
+  "Max": [
+    {"counter": "Crow", "weight": 6},
+    {"counter": "Finx", "weight": 6},
+    {"counter": "Lola", "weight": 6}
+  ],
+  "Mr. P": [
+    {"counter": "Edgar", "weight": 8},
+    {"counter": "Kenji", "weight": 8},
+    {"counter": "Damian", "weight": 8}
+  ],
+  "Sprout": [
+    {"counter": "Moe", "weight": 10},
+    {"counter": "Kit", "weight": 6}
+  ],
+  "Byron": [
+    {"counter": "Piper", "weight": 10},
+    {"counter": "Bonnie", "weight": 8}
+  ],
+  "Squeak": [
+    {"counter": "Buzz", "weight": 10},
+    {"counter": "Kenji", "weight": 8}
+  ],
+  "Lou": [
+    {"counter": "Poco", "weight": 6},
+    {"counter": "Byron", "weight": 6},
+    {"counter": "Sprout", "weight": 8}
+  ],
+  "Ruffs": [
+    {"counter": "Ollie", "weight": 6},
+    {"counter": "Carl", "weight": 6},
+    {"counter": "Sprout", "weight": 6}
+  ],
+  "Buzz": [
+    {"counter": "Cordelius", "weight": 10},
+    {"counter": "Charlie", "weight": 8},
+    {"counter": "Bull", "weight": 8}
+  ],
+  "Fang": [
+    {"counter": "Chester", "weight": 10},
+    {"counter": "Otis", "weight": 10}
+  ],
+  "Eve": [
+    {"counter": "Penny", "weight": 6},
+    {"counter": "Janet", "weight": 8}
+  ],
+  "Janet": [
+    {"counter": "Daryl", "weight": 6},
+    {"counter": "Bonnie", "weight": 6}
+  ],
+  "Otis": [
+    {"counter": "Poco", "weight": 10},
+    {"counter": "Ruffs", "weight": 6},
+    {"counter": "Charlie", "weight": 6},
+    {"counter": "Alli", "weight": 4}
+  ],
+  "Buster": [
+    {"counter": "Bull", "weight": 6},
+    {"counter": "Daryl", "weight": 6},
+    {"counter": "RT", "weight": 6}
+  ],
+  "Gray": [
+    {"counter": "RT", "weight": 4},
+    {"counter": "Eve", "weight": 8},
+    {"counter": "Mr. P", "weight": 8},
+    {"counter": "Charlie", "weight": 8},
+    {"counter": "Pearl", "weight": 8}
+  ],
+  "RT": [
+    {"counter": "Gus", "weight": 6},
+    {"counter": "Max", "weight": 6},
+    {"counter": "Leon", "weight": 6}
+  ],
+  "Willow": [
+    {"counter": "Juju", "weight": 8},
+    {"counter": "Larry", "weight": 8}
+  ],
+  "Doug": [
+    {"counter": "Clancy", "weight": 8},
+    {"counter": "Griff", "weight": 6},
+    {"counter": "Mina", "weight": 6}
+  ],
+  "Chuck": [
+    {"counter": "Cordelius", "weight": 8},
+    {"counter": "Charlie", "weight": 8},
+    {"counter": "Chester", "weight": 8}
+  ],
+  "Charlie": [
+    {"counter": "Janet", "weight": 6},
+    {"counter": "Ziggy", "weight": 6}
+  ],
+  "Sirius": [
+    {"counter": "Bull", "weight": 10},
+    {"counter": "Doug", "weight": 10},
+    {"counter": "Penny", "weight": 8},
+    {"counter": "Amber", "weight": 8},
+    {"counter": "Lumi", "weight": 6}
+  ],
+  "Amber": [
+    {"counter": "Bull", "weight": 10},
+    {"counter": "Doug", "weight": 10},
+    {"counter": "Star Nova", "weight": 6},
+    {"counter": "Bonnie", "weight": 8}
+  ],
+  "Miko": [
+    {"counter": "Bull", "weight": 10},
+    {"counter": "Doug", "weight": 10},
+    {"counter": "Spike", "weight": 9},
+    {"counter": "Cordelius", "weight": 9}
+  ],
+  "Melodie": [
+    {"counter": "Buzz", "weight": 10},
+    {"counter": "Damian", "weight": 10},
+    {"counter": "Cordelius", "weight": 10}
+  ],
+  "Lily": [
+    {"counter": "Jackie", "weight": 10},
+    {"counter": "RT", "weight": 6},
+    {"counter": "Damian", "weight": 6}
+  ],
+  "Clancy": [
+    {"counter": "Mr. P", "weight": 8},
+    {"counter": "Charlie", "weight": 6},
+    {"counter": "Tara", "weight": 6}
+  ],
+  "Moe": [
+    {"counter": "Chester", "weight": 10},
+    {"counter": "Damian", "weight": 8},
+    {"counter": "Stu", "weight": 6}
+  ],
+  "Juju": [
+    {"counter": "Frank", "weight": 8},
+    {"counter": "Brock", "weight": 8}
+  ],
+  "Ollie": [
+    {"counter": "Poco", "weight": 10},
+    {"counter": "Griff", "weight": 8},
+    {"counter": "Damian", "weight": 6}
+  ],
+  "Lumi": [
+    {"counter": "Edgar", "weight": 10},
+    {"counter": "Mortis", "weight": 10},
+    {"counter": "Najia", "weight": 6},
+    {"counter": "Pierce", "weight": 6}
+  ],
+  "Jae-Yong": [
+    {"counter": "Buzz", "weight": 10},
+    {"counter": "Crow", "weight": 8}
+  ],
+  "Alli": [
+    {"counter": "Doug", "weight": 10},
+    {"counter": "Bull", "weight": 6},
+    {"counter": "Ash", "weight": 6}
+  ],
+  "Mina": [
+    {"counter": "Kenji", "weight": 10},
+    {"counter": "Shade", "weight": 4}
+  ],
+  "Ziggy": [
+    {"counter": "Edgar", "weight": 8},
+    {"counter": "Kaze", "weight": 8},
+    {"counter": "Gus", "weight": 6},
+    {"counter": "Kenji", "weight": 8},
+    {"counter": "Mortis", "weight": 8}
+  ],
+  "Gigi": [
+    {"counter": "Jackie", "weight": 10},
+    {"counter": "Doug", "weight": 10}
+  ],
+  "Glowy": [
+    {"counter": "Edgar", "weight": 6},
+    {"counter": "Mortis", "weight": 6},
+    {"counter": "Byron", "weight": 4},
+    {"counter": "Crow", "weight": 4}
+  ],
+  "Najia": [
+    {"counter": "Poco", "weight": 8},
+    {"counter": "Lily", "weight": 6},
+    {"counter": "Kaze", "weight": 6}
+  ],
+  "Damian": [
+    {"counter": "Otis", "weight": 8},
+    {"counter": "Edgar", "weight": 6},
+    {"counter": "Colette", "weight": 6}
+  ],
+  "Star Nova": [
+    {"counter": "Otis", "weight": 10},
+    {"counter": "Gale", "weight": 8}
+  ],
+  "Spike": [
+    {"counter": "Piper", "weight": 6},
+    {"counter": "Pierce", "weight": 6},
+    {"counter": "Larry", "weight": 6}
+  ],
+  "Crow": [
+    {"counter": "Gus", "weight": 10},
+    {"counter": "Pierce", "weight": 8},
+    {"counter": "Byron", "weight": 8}
+  ],
+  "Leon": [
+    {"counter": "Crow", "weight": 8},
+    {"counter": "Emz", "weight": 10}
+  ],
+  "Sandy": [
+    {"counter": "Nita", "weight": 10},
+    {"counter": "Kenji", "weight": 8},
+    {"counter": "Draco", "weight": 8}
+  ],
+  "Meg": [
+    {"counter": "Bea", "weight": 10},
+    {"counter": "Edgar", "weight": 6},
+    {"counter": "Buster", "weight": 6}
+  ],
+  "Surge": [
+    {"counter": "Ruffs", "weight": 8},
+    {"counter": "Juju", "weight": 8}
+  ],
+  "Chester": [
+    {"counter": "Emz", "weight": 6},
+    {"counter": "Meeple", "weight": 6},
+    {"counter": "Pearl", "weight": 6}
+  ],
+  "Cordelius": [
+    {"counter": "Surge", "weight": 10},
+    {"counter": "Mina", "weight": 10},
+    {"counter": "Sirius", "weight": 6}
+  ],
+  "Kit": [
+    {"counter": "Bull", "weight": 10},
+    {"counter": "Frank", "weight": 10},
+    {"counter": "Hank", "weight": 10}
+  ],
+  "Draco": [
+    {"counter": "Lou", "weight": 10},
+    {"counter": "Mina", "weight": 6},
+    {"counter": "Chester", "weight": 6}
+  ],
+  "Kenji": [
+    {"counter": "Lou", "weight": 10},
+    {"counter": "Chester", "weight": 10},
+    {"counter": "Bull", "weight": 10}
+  ],
+  "Pierce": [
+    {"counter": "Ruffs", "weight": 8},
+    {"counter": "Charlie", "weight": 8},
+    {"counter": "Nani", "weight": 8}
+  ],
+  "Kaze": [
+    {"counter": "Draco", "weight": 10},
+    {"counter": "Mina", "weight": 10},
+    {"counter": "Chester", "weight": 10},
+    {"counter": "Otis", "weight": 10}
+  ]
+}

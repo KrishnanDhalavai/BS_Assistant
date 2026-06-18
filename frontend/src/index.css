@@ -1,0 +1,152 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&display=swap');
+
+@font-face {
+  font-family: 'Nougat-ExtraBlack';
+  src: url('https://db.onlinewebfonts.com/t/d8594583bad1b9485b42ef4d33f50070.woff2') format('woff2'),
+    url('https://db.onlinewebfonts.com/t/d8594583bad1b9485b42ef4d33f50070.woff') format('woff'),
+    url('https://db.onlinewebfonts.com/t/d8594583bad1b9485b42ef4d33f50070.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Import Outfit font from Google Fonts as fallback */
+
+:root {
+  font-family: 'Nougat-ExtraBlack', 'Outfit', system-ui, -apple-system, sans-serif;
+  color-scheme: dark;
+}
+
+body {
+  background-color: #08090c;
+  color: #f3f4f6;
+  margin: 0;
+  overflow-x: hidden;
+  background-image:
+    radial-gradient(at 0% 0%, rgba(139, 92, 246, 0.08) 0, transparent 50%),
+    radial-gradient(at 50% 0%, rgba(239, 68, 68, 0.05) 0, transparent 50%),
+    radial-gradient(at 100% 100%, rgba(59, 130, 246, 0.08) 0, transparent 50%);
+  background-attachment: fixed;
+}
+
+/* Hide default cursor on desktop to support the custom follower */
+@media (min-width: 768px) {
+
+  html,
+  body,
+  *,
+  a,
+  button,
+  select,
+  input,
+  textarea,
+  [role="button"],
+  .cursor-pointer {
+    cursor: none !important;
+  }
+}
+
+/* Custom esports scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0b0c10;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #1f2937;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #6366f1;
+}
+
+/* Glassmorphism panel styling */
+.glass-panel {
+  background: rgba(13, 15, 23, 0.7);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+/* Neon glow animations */
+@keyframes neon-pulse-purple {
+
+  0%,
+  100% {
+    box-shadow: 0 0 12px rgba(168, 85, 247, 0.2), inset 0 0 4px rgba(168, 85, 247, 0.1);
+  }
+
+  50% {
+    box-shadow: 0 0 20px rgba(168, 85, 247, 0.4), inset 0 0 8px rgba(168, 85, 247, 0.2);
+  }
+}
+
+.neon-purple {
+  animation: neon-pulse-purple 3s infinite;
+}
+
+@keyframes neon-pulse-cyan {
+
+  0%,
+  100% {
+    box-shadow: 0 0 12px rgba(6, 182, 212, 0.2), inset 0 0 4px rgba(6, 182, 212, 0.1);
+  }
+
+  50% {
+    box-shadow: 0 0 20px rgba(6, 182, 212, 0.4), inset 0 0 8px rgba(6, 182, 212, 0.2);
+  }
+}
+
+.neon-cyan {
+  animation: neon-pulse-cyan 3s infinite;
+}
+
+@keyframes neon-pulse-red {
+
+  0%,
+  100% {
+    box-shadow: 0 0 12px rgba(239, 68, 68, 0.15), inset 0 0 4px rgba(239, 68, 68, 0.08);
+  }
+
+  50% {
+    box-shadow: 0 0 20px rgba(239, 68, 68, 0.35), inset 0 0 8px rgba(239, 68, 68, 0.15);
+  }
+}
+
+.neon-red {
+  animation: neon-pulse-red 3s infinite;
+}
+
+/* Micro animations */
+@keyframes fade-in-up {
+  from {
+    opacity: 0;
+    transform: translateY(16px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in-up {
+  animation: fade-in-up 0.4s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+.glow-text-cyan {
+  text-shadow: 0 0 8px rgba(6, 182, 212, 0.5);
+}
+
+.glow-text-red {
+  text-shadow: 0 0 8px rgba(239, 68, 68, 0.5);
+}
+
+.glow-text-purple {
+  text-shadow: 0 0 8px rgba(168, 85, 247, 0.5);
+}
